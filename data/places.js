@@ -1,0 +1,92 @@
+export const places = [
+  {
+    id: "1",
+    name: "Learning Resource Center (LRC)",
+    category: "Library",
+    description: "A learning and research facility for USTP students.",
+  },
+  {
+    id: "2",
+    name: "Engineering Complex",
+    category: "Academic Building",
+    description: "A building used for engineering classes and activities.",
+  },
+  {
+    id: "3",
+    name: "College of Technology Building",
+    category: "Academic Building",
+    description: "A facility for technology-related programs and activities.",
+  },
+  {
+    id: "4",
+    name: "College of Science and Mathematics Building",
+    category: "Academic Building",
+    description: "A facility for science and mathematics programs.",
+  },
+  {
+    id: "5",
+    name: "Information and Communication Technology Building",
+    category: "Academic Building",
+    description: "A facility for information and communication technology activities.",
+  },
+  {
+    id: "6",
+    name: "Information Technology Building (ITB)",
+    category: "Academic Building",
+    description: "A building used for information technology classes and activities.",
+  },
+  {
+    id: "7",
+    name: "New Administration Building",
+    category: "Administration",
+    description: "A building that houses university administrative offices.",
+  },
+  {
+    id: "8",
+    name: "Gymnasium",
+    category: "Sports",
+    description: "A facility for sports, physical activities, and university events.",
+  },
+  {
+    id: "9",
+    name: "Alumni Building",
+    category: "Student Services",
+    description: "A facility connected with alumni and university activities.",
+  },
+  {
+    id: "10",
+    name: "Science Centrum",
+    category: "Science",
+    description: "A facility supporting science-related learning and activities.",
+  },
+  {
+    id: "11",
+    name: "Food Innovation Center",
+    category: "Food and Research",
+    description: "A facility for food innovation, research, and related activities.",
+  },
+  {
+    id: "12",
+    name: "Student Center",
+    category: "Student Services",
+    description: "A student-oriented facility for activities and services.",
+  },
+  {
+    id: "13",
+    name: "University Health Center",
+    category: "Health Services",
+    description: "A facility providing health-related services to the university community.",
+  },
+  {
+    id: "14",
+    name: "Campus Residence Building",
+    category: "Residence",
+    description: "A campus facility providing student accommodation.",
+  },
+  {
+    id: "15",
+    name: "Cafeteria",
+    category: "Food",
+    description: "A place where students and staff can purchase meals and refreshments.",
+  },
+];
