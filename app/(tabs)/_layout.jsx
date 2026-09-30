@@ -49,6 +49,18 @@ export default function TabsLayout() {
           ),
         }}
       />
+          <Tabs.Screen
+      name="map"
+      options={{
+        title: "Map",
+        tabBarIcon: ({ color, size }) => (
+          <Ionicons name="car" size={size} color={color} />
+        ),
+      }}
+    />
     </Tabs>
+
+
+    
   );
 }

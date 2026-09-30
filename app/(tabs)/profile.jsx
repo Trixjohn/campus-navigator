@@ -9,10 +9,6 @@ export default function Profile() {
       <Text>Name: Trix John D. Villaceran</Text>
       <Text>Year: 3rd </Text>
       <Text>Course: Bachelors Of Science in Information Technology</Text>
-
-
-
-
     </View>
     </View>
   );
@@ -29,7 +25,7 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 28,
     fontWeight: "bold",
-    color: "#12C2D1",
+    color: "#0e0436",
   },
 
   text: {

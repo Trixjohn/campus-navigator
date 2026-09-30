@@ -31,10 +31,10 @@ export default function PlaceDetails() {
         {place.category}
       </Text>
 
-      <Text style={styles.label}>Place ID</Text>
+      <Text style={styles.label}>BUIDLING #</Text>
 
       <Text style={styles.text}>
-        {place.id}
+        {place.buildingNumber}
       </Text>
 
       <Text style={styles.label}>Description</Text>
